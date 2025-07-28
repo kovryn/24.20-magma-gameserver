@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="SDK">
+      <UniqueIdentifier>{4d5b4267-4270-4574-b693-67f57450588c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source\Private">
+      <UniqueIdentifier>{a5f7d386-d919-4c35-ba5d-9cfc729a90a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Public">
+      <UniqueIdentifier>{d4990f6b-09f6-468e-8c51-dcebd83b1cc2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="SDK\Basic.cpp">
+      <Filter>SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\FortniteGame_functions.cpp">
+      <Filter>SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\Engine_functions.cpp">
+      <Filter>SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\CoreUObject_functions.cpp">
+      <Filter>SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\GameplayAbilities_functions.cpp">
+      <Filter>SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\FortniteAI_functions.cpp">
+      <Filter>SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\BP_VictoryDrone_functions.cpp">
+      <Filter>SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="dllmain.cpp" />
+    <ClCompile Include="Replication.cpp">
+      <Filter>Source\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="Inventory.cpp">
+      <Filter>Source\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="GameMode.cpp">
+      <Filter>Source\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="API.cpp">
+      <Filter>Source\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="Misc.cpp">
+      <Filter>Source\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="Abilities.cpp">
+      <Filter>Source\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="Building.cpp">
+      <Filter>Source\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="Client.cpp">
+      <Filter>Source\Private</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Utils.h">
+      <Filter>Source\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="Replication.h">
+      <Filter>Source\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="Inventory.h">
+      <Filter>Source\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="GameMode.h">
+      <Filter>Source\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="API.h">
+      <Filter>Source\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Source\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="Options.h">
+      <Filter>Source\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="Misc.h">
+      <Filter>Source\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="Abilities.h">
+      <Filter>Source\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="Building.h">
+      <Filter>Source\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="Client.h">
+      <Filter>Source\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
