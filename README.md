@@ -5,10 +5,13 @@
 ## Credits
 Magmadev - The person who made the Gameserver
 
-### Todo
+  ### Todo
 - [x] Equipping
 - [x] Storm
 - [ ] Looting
 - [x] Building
 - [x] Editing
 - [x] Pawn Death
+
+### Info
+Make sure to extract the sdk
