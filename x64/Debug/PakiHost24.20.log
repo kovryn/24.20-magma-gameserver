@@ -1,0 +1,35 @@
+﻿  Abilities.cpp
+  API.cpp
+  Building.cpp
+  Client.cpp
+  dllmain.cpp
+  GameMode.cpp
+C:\Users\venti\Downloads\PakiHost24.20 (2) (1)\PakiHost24.20\Abilities.cpp(43,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+C:\Users\venti\Downloads\PakiHost24.20 (2) (1)\PakiHost24.20\API.cpp(51,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+C:\Users\venti\Downloads\PakiHost24.20 (2) (1)\PakiHost24.20\Building.cpp(173,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+C:\Users\venti\Downloads\PakiHost24.20 (2) (1)\PakiHost24.20\Client.cpp(27,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+C:\Users\venti\Downloads\PakiHost24.20 (2) (1)\PakiHost24.20\dllmain.cpp(59,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+C:\Users\venti\Downloads\PakiHost24.20 (2) (1)\PakiHost24.20\GameMode.cpp(279,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Inventory.cpp
+C:\Users\venti\Downloads\PakiHost24.20 (2) (1)\PakiHost24.20\Inventory.cpp(367,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Misc.cpp
+C:\Users\venti\Downloads\PakiHost24.20 (2) (1)\PakiHost24.20\Misc.cpp(413,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Player.cpp
+C:\Users\venti\Downloads\PakiHost24.20 (2) (1)\PakiHost24.20\Player.cpp(333,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Replication.cpp
+C:\Users\venti\Downloads\PakiHost24.20 (2) (1)\PakiHost24.20\Replication.cpp(1259,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Basic.cpp
+C:\Users\venti\Downloads\PakiHost24.20 (2) (1)\PakiHost24.20\SDK\Basic.cpp(121,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  BP_VictoryDrone_functions.cpp
+C:\Users\venti\Downloads\PakiHost24.20 (2) (1)\PakiHost24.20\SDK\BP_VictoryDrone_functions.cpp(201,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  CoreUObject_functions.cpp
+C:\Users\venti\Downloads\PakiHost24.20 (2) (1)\PakiHost24.20\SDK\CoreUObject_functions.cpp(191,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Engine_functions.cpp
+C:\Users\venti\Downloads\PakiHost24.20 (2) (1)\PakiHost24.20\SDK\Engine_functions.cpp(115311,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  FortniteAI_functions.cpp
+C:\Users\venti\Downloads\PakiHost24.20 (2) (1)\PakiHost24.20\SDK\FortniteAI_functions.cpp(16564,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  FortniteGame_functions.cpp
+C:\Users\venti\Downloads\PakiHost24.20 (2) (1)\PakiHost24.20\SDK\FortniteGame_functions.cpp(362541,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  GameplayAbilities_functions.cpp
+C:\Users\venti\Downloads\PakiHost24.20 (2) (1)\PakiHost24.20\SDK\GameplayAbilities_functions.cpp(10745,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...
