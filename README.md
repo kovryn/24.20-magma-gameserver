@@ -14,4 +14,4 @@ Magmadev - The person who made the Gameserver
 - [x] Pawn Death
 
 ### Info
-Make sure to extract the sdk
+Make sure to extract the sdk and put it in 24.20
